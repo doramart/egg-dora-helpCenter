@@ -56,7 +56,6 @@ exports.doraHelpCenter = {
     pluginsConfig: ` 
     exports.doraHelpCenter = {\n
         enable: true,\n
-        path: path.join(__dirname, '../lib/plugin/egg-dora-helpcenter'),\n
     };\n
     `, // 插入到 plugins.js 中的配置
     defaultConfig: `
