@@ -1,12 +1,9 @@
-
 module.exports = app => {
     const mongoose = app.mongoose
     var shortid = require('shortid');
     var path = require('path');
     var Schema = mongoose.Schema;
     var moment = require('moment')
-    require(path.join(app.config.baseDir, 'app/model/adminUser'));
-
 
     var HelpCenterSchema = new Schema({
         _id: {
