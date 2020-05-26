@@ -1,6 +1,6 @@
 {
   "name": "egg-dora-helpcenter",
-  "version": "1.0.2",
+  "version": "1.0.10",
   "description": "helpCenter",
   "eggPlugin": {
     "name": "doraHelpCenter"
@@ -52,7 +52,7 @@
     "url": "git+https://github.com/doramart/egg-dora-helpcenter.git"
   },
   "bugs": {
-    "url": "https://github.com/doramart/egg/issues"
+    "url": "https://github.com/doramart/egg-dora-helpcenter/issues"
   },
   "homepage": "https://github.com/doramart/egg-dora-helpcenter#readme",
   "author": "doramart",
